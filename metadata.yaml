@@ -1,5 +1,5 @@
 _repo: The-Life-of-a-Foxhound_52307
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leech, John
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: archival
+  image_path: 52307-h/images/cover.jpg
 creator:
   author:
     agent_name: Mills, John
     gutenberg_agent_id: '49246'
     url: http://www.gutenberg.org/2009/agents/49246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52307#The-Life-of-a-Foxhound
 gutenberg_issued: '2016-06-11'
 gutenberg_type: Text
 identifiers:
